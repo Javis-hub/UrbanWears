@@ -631,6 +631,7 @@ iframe{
     border-radius: .4rem;
     background-color: #000;
     color: #d6d6d6;
+    cursor: pointer;
 }
 
 .form button:hover{
